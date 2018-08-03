@@ -29,7 +29,7 @@ OpenVZ
 Ram >> 64M
 更新： 2018-03-24 新增 多网卡 适配
 
-#Debian or Ubuntu
+# Debian or Ubuntu
 适用于 单网卡（单 IP） 服务器：
 
 wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-debianorubuntu.sh
@@ -42,7 +42,7 @@ wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_na
 
 bash tcp_nanqinlang-rinetd-debianorubuntu-multiNIC.sh
 
-#CentOS 7
+# CentOS 7
 和上面一样，也分 单网卡 和 多网卡 版本：
 
 单网卡
@@ -55,7 +55,7 @@ wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_na
 
 bash tcp_nanqinlang-rinetd-centos-multiNIC.sh
 
-使用说明
+# 使用说明
 以下进行脚本使用说明：
 
 安装 lkl-rinetd
